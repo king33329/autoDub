@@ -8,6 +8,7 @@
 链接：https://www.123865.com/s/g7oRvd-jcTIH
 
 # version1.1
-最新版本：[https://www.123865.com/s/DBieTd-Kip8d?pwd=K2Rj](https://www.123865.com/s/DBieTd-3Lp8d?pwd=ykcb#) 【老版本不在维护】
+最新版本：[[https://www.123865.com/s/DBieTd-Kip8d?pwd=K2Rj](https://www.123865.com/s/DBieTd-3Lp8d?pwd=ykcb#) ](https://www.123865.com/s/DBieTd-kLp8d?pwd=BfG9#)【老版本不在维护】
+
 
 
