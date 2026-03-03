@@ -41,8 +41,7 @@ autoDub/
 
 ## 🖼️ 演示示例
 
-> 请查看B站账号：👉 [点击这里查看演示视频](https://space.bilibili.com/3690994058922220?spm_id_from=333.1007.0.0) 
-👉 [点击这里查看演示视频](https://space.bilibili.com/3690994058922220?spm_id_from=333.1007.0.0)
+> 请查看B站账号：👉 [点击这里查看演示视频](https://space.bilibili.com/3706925174753534?spm_id_from=333.1387.0.0) 
 
 ## 🗺️ 未来规划
 
