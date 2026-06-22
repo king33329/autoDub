@@ -45,9 +45,7 @@ autoDub/
 
 > Watch the following video to quickly learn how to use the tool:
 
-**[Click here to watch tutorial video](resource/6月22日%20(1).mp4)** - 22.8 MB
-
-Or check out our Bilibili account for complete demos:
+<video src="resource/6月22日%20(1).mp4" width="600" controls></video>
 
 ---
 
