@@ -2,6 +2,8 @@
 
 > An AI-powered video localization workflow engine for video translation, subtitle optimization, AI dubbing, and automated synthesis.
 
+📌 **English Version | [中文版本](README.md)**
+
 ---
 
 IMPORTANT: Please read the project's usage documentation and software download information first:
@@ -43,7 +45,9 @@ autoDub/
 
 > Watch the following video to quickly learn how to use the tool:
 
-![Tutorial Demo](resource/6月22日%20(1).mp4)
+**[Click here to watch tutorial video](resource/6月22日%20(1).mp4)** - 22.8 MB
+
+Or check out our Bilibili account for complete demos:
 
 ---
 
