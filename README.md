@@ -45,7 +45,7 @@ autoDub/
 
 > 观看以下视频快速了解工具的使用方式：
 
-<video src="resource/6月22日%20(1).mp4" width="600" controls></video>
+**最新演示版本：** [下载演示视频 v6.22.1](https://github.com/king33329/autoDub/releases/download/video/6.22.1.mp4)
 
 ---
 
