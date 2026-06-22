@@ -45,9 +45,7 @@ autoDub/
 
 > 观看以下视频快速了解工具的使用方式：
 
-**[点击查看教程视频](resource/6月22日%20(1).mp4)** - 22.8 MB
-
-或者扫描下方二维码在 B 站查看完整演示：
+<video src="resource/6月22日%20(1).mp4" width="600" controls></video>
 
 ---
 
