@@ -6,6 +6,14 @@
 
 ---
 
+## 🎥 教程视频
+
+> 观看以下视频快速了解工具的使用方式：
+
+**最新演示版本：** [下载演示视频 v6.22.1](https://github.com/king33329/autoDub/releases/download/video/6.22.1.mp4)
+
+---
+
 IMPORTANT: 请先阅读项目的使用说明与软件下载文档：
 
 - 使用说明（使用教程、功能详解与配置）：[点击查看使用说明](doc/usage.md)
@@ -39,13 +47,6 @@ autoDub/
 └── README.md         # 项目说明文档
 ```
 
----
-
-## 🎥 教程视频
-
-> 观看以下视频快速了解工具的使用方式：
-
-**最新演示版本：** [下载演示视频 v6.22.1](https://github.com/king33329/autoDub/releases/download/video/6.22.1.mp4)
 
 ---
 
