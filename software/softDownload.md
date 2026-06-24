@@ -27,7 +27,7 @@
 - 更优的封面设计
 
 # version1.4
-链接：https://1844625340.share.123865.com/123pan/DBieTd-2qWKd?pwd=amUX#
+链接：[123网盘](https://1844625340.share.123pan.cn/123pan/DBieTd-8qWKd?pwd=aUh9#)
 
 注意：免费版本无需申请证书认证。已有证书与该版本不通用
 
