@@ -21,6 +21,6 @@ AutoDub 提供2个版本：
 
 欢迎加入我们的 QQ 群，获取最新资讯和技术支持：
 
-![QQ群二维码](resource/code.jpg)
+![QQ群二维码](../resource/code.jpg)
 
 
