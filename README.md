@@ -124,4 +124,4 @@ autoDub/
 
 欢迎添加好友的QQ ，获取最新资讯和技术支持：
 
-![QQ群二维码](resource/code.jpg)
+![QQ群二维码](resource/20260628-212955.jpg)
