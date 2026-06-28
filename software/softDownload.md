@@ -1,6 +1,6 @@
 # 注意：使用时请下载最新版本
 # version1.4
-链接：[[[123网盘](https://1844625340.share.123pan.cn/123pan/DBieTd-8qWKd?pwd=aUh9#)](https://1844625340.share.123pan.cn/123pan/DBieTd-0S0Kd?pwd=Oxvk#)](https://1844625340.share.123pan.cn/123pan/DBieTd-sJaKd?pwd=oKOx#)
+链接：https://1844625340.share.123pan.cn/123pan/DBieTd-wWZKd?pwd=0wNT#
 
 注意：免费版本无需申请证书认证。已有证书与该版本不通用
 
