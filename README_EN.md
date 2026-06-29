@@ -123,4 +123,4 @@ If you're interested in this project, please feel free to Star and follow it.
 
 Welcome to join our QQ group for the latest news and technical support:
 
-![QQ Group QR Code](resource/code.jpg)
+![QQ Group QR Code](resource/20260628-212955.jpg)
